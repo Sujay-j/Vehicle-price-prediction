@@ -63,7 +63,6 @@ QDarkStyle==2.8.1
 QtAwesome==0.7.2
 QtPy==1.9.0
 rope==0.17.0
-Rtree==0.9.4
 scikit-learn==0.23.2
 scipy==1.5.2
 seaborn==0.10.1
